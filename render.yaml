@@ -2,6 +2,5 @@ services:
   - type: web
     name: pour-ryma
     runtime: static
-    plan: free
     buildCommand: ""
     staticPublishPath: .
